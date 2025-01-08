@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.2.1 - 2025-01-08
+#### Bug Fixes
+- change ftp protocol - (1d742c7) - Mario Ravalli
+
+- - -
+
 ## 0.2.0 - 2025-01-08
 #### Features
 - Github workflow for automatic deploy - (567d21b) - Mario Ravalli
