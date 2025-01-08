@@ -2,6 +2,14 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.2.2 - 2025-01-08
+#### Bug Fixes
+- ftp action version - (a9b02ba) - Mario Ravalli
+#### Miscellaneous Chores
+- add badge for ftp deploy action - (5aa9d28) - Mario Ravalli
+
+- - -
+
 ## 0.2.1 - 2025-01-08
 #### Bug Fixes
 - change ftp protocol - (1d742c7) - Mario Ravalli
